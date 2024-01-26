@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+car_brand,text,YES,,NULL,
+car_model,text,YES,,NULL,
+average_price,bigint,YES,,NULL,
+buyer_names,text,YES,,NULL,
