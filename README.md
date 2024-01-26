@@ -1,4 +1,4 @@
-[carchoice.csv](https://github.com/Okonkwosolomon1/Some-data-cleaning-fun/files/14067802/carchoice.csv)## A LITTLE BIT OF DATA CLEANING 
+## A LITTLE BIT OF DATA CLEANING 
 ### The dataset
 
 [carchoice dataset.docx](https://github.com/Okonkwosolomon1/Some-data-cleaning-fun/files/14067889/carchoice.dataset.docx)
