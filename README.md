@@ -14,6 +14,7 @@ FROM carchoice;
 ```sql
 DESCRIBE carchoice;
 ```
+[carchoice dataset.csv](https://github.com/Okonkwosolomon1/Some-data-cleaning-fun/files/14067540/carchoice.dataset.csv)
 
 #### average price came as text instead of BIGNIT. Let's change it
 
