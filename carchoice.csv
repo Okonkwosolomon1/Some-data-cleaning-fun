@@ -1,0 +1,26 @@
+car_brand,car_model,average_price,buyer_names
+Honda,Fit,"$22,000 ",Matthew White
+Toyota,Corolla,"$25,000 ",Emily Johnson
+Honda,Civic,"$26,000 ",Emily Johnson
+Honda,Civic,"$26,000 ",Brian Johnson
+Ford,Fusion,"$28,000 ",Brian Johnson
+Chevrolet,Malibu,"$29,000 ",Michael Smith
+Toyota,Camry,"$30,000 ",Michael Smith
+Ford,Escape,"$31,000 ",Amanda Robinson
+Honda,Accord,"$31,000 ",Matthew White
+Honda,Accord,"$31,000 ",Rebbeca Davis
+Chevrolet,Equinox,"$32,000 ",David Martinez
+Toyota,Tacoma,"$32,000 ",Jessica Lee
+Toyota,Tacoma,"$32,000 ",Amanda Robinson
+Honda,CR-V,"$34,000 ",David Martinez
+Toyota,RAV4,"$35,000 ",Robert Brown
+Toyota,RAV4,"$35,000 ",Karen Johnson
+Ford,F-150,"$36,000 ",Brian Johnson
+Chevrolet,Silverado,"$37,000 ",Joshua Anderson
+Chevrolet,Traverse,"$38,000 ",Laura Martinez
+Ford,Mustang,"$38,000 ",Michael Smith
+Toyota,Highlander,"$40,000 ",Robert Brown
+Toyota,Highlander,"$40,000 ",Christopher Lee
+Honda,Pilot,"$42,000 ",Lisa Taylor
+Chevrolet,Camaro,"$45,000 ",John Taylor
+Ford,Explorer,"$45,000 ",David Martinez
